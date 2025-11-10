@@ -12,7 +12,7 @@ Intelligently changes your Tab keybind behavior in PvP for the Bronzebeard Realm
 
 ### Manual Installation
 1. Click the button above to download
-2. Extract the `SmartTab` folder to:
+2. Extract the `SmartTab` folder to your WoW addons folder
 
 ## Usage
 Just press Tab as usual - the addon handles the rest automatically!
