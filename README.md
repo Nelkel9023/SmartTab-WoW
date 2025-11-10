@@ -6,18 +6,20 @@ Intelligently changes your Tab keybind behavior in PvP for the Bronzebeard Realm
 - **Normal Mode:** Standard "Target Nearest Enemy" behavior
 - **PvP Mode:** Auto-switches to "Target Nearest Enemy Player" in Battlegrounds and Arenas
 
-## Installation
-1. Download the latest release
-2. Extract to `Ascension/Interface/AddOns/`
-3. Rename folder to `SmartTab` if needed
-4. Enable in-game via AddOns menu
+## Download Latest Version
+
+[![Download SmartTab](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=download)](https://github.com/YOUR_USERNAME/SmartTab/releases/latest/download/SmartTab.zip)
+
+### Manual Installation
+1. Click the button above to download
+2. Extract the `SmartTab` folder to:
 
 ## Usage
 Just press Tab as usual - the addon handles the rest automatically!
 
 ## Compatibility
 - **Server:** Ascension WoW (Bronzebeard Realm)
-- **Version:** Designed for current Ascension client
+- **Version:** Designed for current Ascension client or a 3.3.5a client 
 
 ## License
 MIT License - feel free to fork and improve!
