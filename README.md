@@ -8,15 +8,11 @@ Intelligently changes your Tab keybind behavior in PvP for the Bronzebeard Realm
 
 ## Download Latest Version
 
-[![Download SmartTab](https://github.com/Nelkel9023/SmartTab-WoW/releases/download/v1.0.0/SmartTab.zip)
+[![Download SmartTab](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=download)](https://github.com/Nelkel9023/SmartTab-WoW/releases/download/v1.0.0/SmartTab.zip)
 
 ### Manual Installation
 1. Click the button above to download
 2. Extract the `SmartTab` folder to:
-
-### Manual Installation
-1. Click the button above to download
-2. Extract the `SmartTab` folder to your addons folder
 
 ## Usage
 Just press Tab as usual - the addon handles the rest automatically!
