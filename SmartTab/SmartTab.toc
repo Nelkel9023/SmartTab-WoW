@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## Title: SmartTab
 ## Author: Discord- @Nelkel - for Ascension-BronzeBeard
-## Version: 1.0
+## Version: 2.1.0
 ## Notes: Automatically changes tab-targeting to only enemy players in Battlegrounds and Arenas.
 
 SmartTab.lua
